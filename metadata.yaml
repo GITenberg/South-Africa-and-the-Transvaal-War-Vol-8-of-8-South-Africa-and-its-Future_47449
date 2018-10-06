@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'South Africa and the Transvaal War, Vol. 8 (of 8)
 
   South Africa and its Future'
